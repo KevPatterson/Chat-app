@@ -228,9 +228,9 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👨‍💻 Autor
 
-**Tu Nombre**
-- GitHub: [@tuusuario](https://github.com/tuusuario)
-- Email: tu@email.com
+**Patterson**
+- GitHub: [@KevPatterson](https://github.com/KevPatterson)
+- Email: kevinpatterson618@gmail.com
 
 ## 🙏 Agradecimientos
 
@@ -253,4 +253,4 @@ Si tienes alguna pregunta o problema:
 ⭐ Si te gusta este proyecto, ¡dale una estrella en GitHub!
 
 **Versión**: 1.0.0  
-**Última actualización**: Diciembre 2024 
+**Última actualización**: Julio 2025
