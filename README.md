@@ -224,7 +224,7 @@ npm install
 
 ## 📝 Licencia
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE.TXT) para detalles.
 
 ## 👨‍💻 Autor
 
